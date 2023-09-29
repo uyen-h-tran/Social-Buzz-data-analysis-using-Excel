@@ -10,7 +10,7 @@ The client has sent through 7 data sets, each with different columns and values,
 - Content
 - Reaction Types
 
-I will use a presentation to present the main points of your analysis, including:
+I will use a presentation to present the main points of my analysis, including:
 
 - Project Recap
 - Problem
